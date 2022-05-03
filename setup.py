@@ -18,6 +18,6 @@ setuptools.setup(
     ],                                      
     python_requires='>=3.6',
     py_modules=["pyleaps"],
-    package_dir={'':'pyleaps/src'},     e
+    package_dir={'':'pyleaps/src'},     
     install_requires=["itertools","numpy","statsmodels","pandas"]
 )

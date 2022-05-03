@@ -1,0 +1,4 @@
+itertools
+numpy
+statsmodels
+pandas
