@@ -14,3 +14,13 @@ The package can be easily installed through pip. Check out https://pypi.org/proj
 `pip install pyleaps`
 
 The relevant dependencies should automatically get installed, in case they are not present in the environment
+
+## COLLABORATION
+
+Any help/collaboration is very welcome. Just let me know what kind of edits you propose and I will be very happy to discuss them.
+
+## TO DOs
+This section contains a list of future edits:
+
+1. Improve general code readability  
+1. Figure out a way to speed up best subset section. So far, it is way slower than the R counterpart.
