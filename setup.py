@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyleaps",                     
-    version="0.0.1",                        
+    version="0.0.2",                        
     author="Fortunato Nucera",                     
     description="Simple porting of the LEAPS package on python. Not optimized yet.",
     long_description=long_description,      
