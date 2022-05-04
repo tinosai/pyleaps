@@ -26,12 +26,17 @@ This section contains a list of future edits:
 1. Figure out a way to speed up best subset section. So far, it is way slower than the R counterpart.
 
 # USAGE EXAMPLE
+
+This section demonstrates the package usage. In this instance, I will use a dataset from the popular UCI data set repository. 
+Please visit https://archive.ics.uci.edu/ml for further details.
+
 ```python
 import pandas as pd
 import pyleaps
 import matplotlib.pyplot as plt
 ```
 
+Loading the data set
 
 ```python
 df = pd.read_csv("https://archive.ics.uci.edu/ml/machine-learning-databases/00291/airfoil_self_noise.dat", sep="\t", header=None)
